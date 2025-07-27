@@ -1,4 +1,5 @@
 import './App.css'
+import Footer from './componant/footer/footer'
 import Home from './componant/Home/Home'
 import Navbar from './componant/Navbar/Navbar'
 
@@ -10,6 +11,7 @@ function App() {
        <div>
         <Navbar/>
         <Home/>
+        <Footer/>
        </div>
     
     
